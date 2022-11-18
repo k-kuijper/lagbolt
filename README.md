@@ -1,2 +1,3 @@
 # lagbolt
 I'm currently learning from docs.github.com
+My intentions are to create an IoT ...
