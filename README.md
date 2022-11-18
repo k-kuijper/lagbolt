@@ -1,4 +1,4 @@
 # lagbolt
-lag bolts are steel spikes and that is facinating, but how are they used and why?
-I'll explain. 
+lag bolts are steel spikes, and while that is facinating, how are they used and why?
+
 I'm currently learning from docs.github.com
