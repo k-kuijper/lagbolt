@@ -1,9 +1,9 @@
 # lagbolt
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://www.123rf.com/photo_74191518_learn-something-new-circle-word-cloud-business-concept.html](https://solarsystem.nasa.gov/internal_resources/2566)">
- <source media="(prefers-color-scheme: light)" srcset="(https://solarsystem.nasa.gov/internal_resources/2566)">
- <img alt="Perseid Meteor Shower that occurs every August" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://solarsystem.nasa.gov/news/715/10-things-whats-that-space-rock/">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <img alt="Perseid Meteor Shower for dark mode and illustrated sun for light mode" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
 - Currently learning from docs.github.com 
