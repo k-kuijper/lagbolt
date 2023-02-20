@@ -10,4 +10,6 @@
 
 - Currently learning from docs.github.com 
 
+- Nerding on memorizing markdwon syntax, because who doesn't love a good reference/cheat sheet?
+
 - Actively looking for technical writer or technical editor positions :raised_hands:
