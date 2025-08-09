@@ -1,4 +1,4 @@
-# Pun dah torium
+# Pun-dah-torium
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://solarsystem.nasa.gov/news/715/10-things-whats-that-space-rock/">
