@@ -8,7 +8,8 @@
 
  ## irrelevant stuff
  
-👋 **Hi, I’m @k-kuijper**
+## about me
+**Hi, I’m @k-kuijper**
 
 - Currently learning from docs.github.com 
 
